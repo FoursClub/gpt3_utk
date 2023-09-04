@@ -4,7 +4,7 @@ import { Footer, Blog, Features, Possibillity, Header, WhatGPT3 } from './contai
 import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
-  return (
+  return ( 
     <>
       <div className='App'>
         <div className='gradiant_bg'>
